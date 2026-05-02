@@ -5,6 +5,8 @@
 // @description  Tool OLM EZ - Purple Hacker Edition with Math Support, Night Mode, Search, Auto-refresh, Settings & Shortcuts
 // @author       Quan Ngọc Thành
 // @match        https://olm.vn/*
+// @updateURL    https://raw.githubusercontent.com/Qnthanh/OLM/main/olm_v54_stable.js
+// @downloadURL  https://raw.githubusercontent.com/Qnthanh/OLM/main/olm_v54_stable.js
 // @grant        unsafeWindow
 // @run-at       document-end
 // @require      https://cdn.jsdelivr.net/npm/lz-string@1.4.4/libs/lz-string.min.js
