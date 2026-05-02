@@ -1,9 +1,9 @@
 // ==UserScript==
-// @name         Tool OLM EZ
+// @name         OLM PANEL
 // @namespace    http://tampermonkey.net/
-// @version      5.4.0
-// @description  Tool OLM EZ - Purple Hacker Edition with Math Support, Night Mode, Search, Auto-refresh, Settings & Shortcuts
-// @author       Quan Ngọc Thành
+// @version      5.4.5
+// @description  Tool OLM EZ
+// @author       QuanNgocThanh
 // @match        https://olm.vn/*
 // @updateURL    https://raw.githubusercontent.com/Qnthanh/OLM/main/olm_v54_stable.js
 // @downloadURL  https://raw.githubusercontent.com/Qnthanh/OLM/main/olm_v54_stable.js
@@ -11,11 +11,10 @@
 // @run-at       document-end
 // @require      https://cdn.jsdelivr.net/npm/lz-string@1.4.4/libs/lz-string.min.js
 // ==/UserScript==
-
 (function() {
 
     // ════════════════════════════════════════════════════════════════════════════════
-    // TOOL OLM EZ v5.4 - Purple Hacker Edition
+    // OLM PANEL v5.3.5 - Purple Hacker Edition
     // ════════════════════════════════════════════════════════════════════════════════
     // 
     // ✨ FEATURES:
